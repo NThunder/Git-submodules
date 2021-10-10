@@ -1,0 +1,3 @@
+[submodule "GSS"]
+	path = GSS
+	url = git@github.com:NThunder/GSS.git
